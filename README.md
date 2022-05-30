@@ -13,4 +13,8 @@ Depth of Field
 
 Depth of field is used to adjust the the diameter or area of the output. Depth of field can be used to output to larger or small guage components.
 
+Converging and Diverging Lenses
+
+Converging lenses condense the signal. Diverging Lenses Expand the signal. Dense crystals must be used to condense signal. Signal expanding is dangerous as the signal is made into analogue signal by the geometric lattice structure of the crystal. Sawtooth analogue waves create friction and combustion heat on contact with common materials. Signal expanding using crystal creates analogue waves which tear through materials like gamma rays. Water, saline, and frozen-hydrogen can be used as diverging lenses.
+
 
